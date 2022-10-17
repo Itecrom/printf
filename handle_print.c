@@ -6,7 +6,7 @@
  * @ind: ind.
  * @buffer: Buffer array to handle print.
  * @flags: Calculates active flags
- * @width: get width.
+ * @width: get width. The reworked Leonard JJ Mhone and Keycia Ngonga
  * @precision: Precision specification
  * @size: Size specifier
  * Return: 1 or 2;

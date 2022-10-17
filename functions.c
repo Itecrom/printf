@@ -1,6 +1,6 @@
 #include "main.h"
 
-/************************* PRINT CHAR *************************/
+/************************* Keycia & Leonard reworked *************************/
 
 /**
  * print_char - Prints a char
